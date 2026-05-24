@@ -1,6 +1,6 @@
 # Ex.No: 8  Implementation of Path finding using A* algorithm
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 14/5/2026                                                                            
+### REGISTER NUMBER : 212223240015
 ### AIM: 
 To write a program to create graph using waypoints and use A* algorithm to find path between source and destination.
 ### Algorithm:
@@ -136,7 +136,10 @@ Check the following
 2. Neighbors set manually via Inspector
 3. WaypointGraph script on a manager
 4. AICharacter assigned a start and goal
+```
 ### Output:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b0d995b0-110c-4d76-8bc1-4c8a200bec97" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6be82e14-b20f-408a-9248-9aaf035ebca4" />
 
 
 
